@@ -1,1 +1,1 @@
-A Chatbot that uses OPENAI API calls and langchain to answer questions related to a specific pdf document
+A Chatbot that uses OPENAI API calls to ChatGPT along with langchain library to answer questions related to uploaded pdf document
